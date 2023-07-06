@@ -15,7 +15,7 @@
 
 [Tweet](https://twitter.com/SeedOilDsrspctr/status/1672235847146504192?s=20) (still need to rebuild from source data)
 
-## Hog Contraceptive
+## Concerning uses
 
 [Hogstop active ingredient is cottonseed oil](https://hiprofeeds.com/wp-content/uploads/2019/04/13417225.pdf)
 
@@ -60,10 +60,6 @@
 - [No sunburn](https://twitter.com/SeedOilDsrspctr/status/1670178296984739843?s=20)
 - [Loses weight in Europe](https://twitter.com/seedoildsrspctr/status/1658987790439272449)
 
-## [Why did saturated fat get a bad rap?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9794145/)
-
-> The idea that saturated fats cause heart disease, called the diet-heart hypothesis, was introduced in the 1950s, based on weak, associational evidence. Subsequent clinical trials attempting to substantiate this hypothesis could never establish a causal link. However, these clinical-trial data were largely ignored for decades, until journalists brought them to light about a decade ago. Subsequent reexaminations of this evidence by nutrition experts have now been published in >20 review papers, which have largely concluded that saturated fats have no effect on cardiovascular disease, cardiovascular mortality or total mortality.
-
 ## [Healthy oils](https://www.seedoilrebellion.com/healthy-oils)
 
 - Butter
@@ -73,10 +69,12 @@
 - Coconut oil
 - Avacado oil
 
-## Humorous
+### [Why did saturated fat get a bad rap?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9794145/)
 
-[Zelda](https://twitter.com/Titsandnuggies/status/1676373486372024320?s=20)
+> The idea that saturated fats cause heart disease, called the diet-heart hypothesis, was introduced in the 1950s, based on weak, associational evidence. Subsequent clinical trials attempting to substantiate this hypothesis could never establish a causal link. However, these clinical-trial data were largely ignored for decades, until journalists brought them to light about a decade ago. Subsequent reexaminations of this evidence by nutrition experts have now been published in >20 review papers, which have largely concluded that saturated fats have no effect on cardiovascular disease, cardiovascular mortality or total mortality.
 
-## [Euric Acid](https://pubmed.ncbi.nlm.nih.gov/34924350/#:~:text=Mustard%20oil%20is%20a%20liquid,of%20mustard%20oil%20for%20cooking)
+## Other
+
+### [Euric Acid](https://pubmed.ncbi.nlm.nih.gov/34924350/#:~:text=Mustard%20oil%20is%20a%20liquid,of%20mustard%20oil%20for%20cooking)
 
 > Mustard oil is a liquid oil that is low in saturated fat and is popular in South Asia.It contains a large proportion of erucic acid, a fatty acid associated with myocardial lipidosis in rodents. This evidence prompted the US Food and Drug Administration (FDA) to ban the use of mustard oil for cooking.
