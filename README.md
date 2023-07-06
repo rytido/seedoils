@@ -41,13 +41,15 @@
 
 > Significantly less acrylamide was produced in saturated animal fat than in unsaturated cooking oil, with 366 ng/g in lard and 211 ng/g in ghee versus 2447 ng/g in soy oil, followed by palm olein with 1442 ng/g.
 
-## Heart disease
+## Heart
 
 ### [Sydney Diet Heart Study](https://www.bmj.com/content/346/bmj.e8707)
 
 > In this cohort, substituting dietary linoleic acid in place of saturated fats increased the rates of death from all causes, coronary heart disease, and cardiovascular disease. An updated meta-analysis of linoleic acid intervention trials showed no evidence of cardiovascular benefit.
 
-## [The munchies](https://www.zeroacre.com/blog/seed-oils-cause-the-munchies)
+## Gut
+
+### [The munchies](https://www.zeroacre.com/blog/seed-oils-cause-the-munchies)
 
 > THC isn’t the only compound capable of activating CB1 receptors. Your body naturally produces compounds called "endocannabinoids."
 > These endocannabinoids, primarily 2-arachidonoylglycerol (2-AG) and anandamide (AEA), can also activate CB1 receptors and trigger hunger – even on a full stomach.
