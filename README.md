@@ -33,17 +33,43 @@
 
 > UC Riverside research shows soybean oil not only leads to obesity and diabetes, but could also affect neurological conditions like autism, Alzheimer’s disease, anxiety, and depression.
 
+### [High fried food consumption impacts anxiety and depression](https://www.pnas.org/doi/10.1073/pnas.2221097120)
+
+> To address a crucial knowledge deficiency concerning the correlation between fried food consumption and the risk of anxiety and depression, here we revealed that frequent fried food consumption is strongly associated with a higher risk of anxiety and depression. Notably, acrylamide is a representative contaminant in fried foods, thereby further elucidating its toxicological mode of action. We demonstrated that long-term exposure to acrylamide induces anxiety- and depressive-like behaviors via oxidative stress-mediated neuroinflammation, and unravel the underlying mechanism that PPAR signaling pathway mediates acrylamide-induced lipid metabolism disorder in brain.
+
+[But not all fats are equal](https://www.sciencedirect.com/science/article/abs/pii/S0308814616308652)
+
+> Significantly less acrylamide was produced in saturated animal fat than in unsaturated cooking oil, with 366 ng/g in lard and 211 ng/g in ghee versus 2447 ng/g in soy oil, followed by palm olein with 1442 ng/g.
+
 ## Heart disease
 
 ### [Sydney Diet Heart Study](https://www.bmj.com/content/346/bmj.e8707)
 
 > In this cohort, substituting dietary linoleic acid in place of saturated fats increased the rates of death from all causes, coronary heart disease, and cardiovascular disease. An updated meta-analysis of linoleic acid intervention trials showed no evidence of cardiovascular benefit.
 
+## [The munchies](https://www.zeroacre.com/blog/seed-oils-cause-the-munchies)
+
+> THC isn’t the only compound capable of activating CB1 receptors. Your body naturally produces compounds called "endocannabinoids."
+> These endocannabinoids, primarily 2-arachidonoylglycerol (2-AG) and anandamide (AEA), can also activate CB1 receptors and trigger hunger – even on a full stomach.
+> Your body makes 2-AG and AEA endocannabinoids exclusively from arachidonic acid (an omega-6 fatty acid). And while arachidonic acid is present in trace amounts in food, your body primarily produces it from its precursor: linoleic acid. In other words, when you consume linoleic acid, some of it is converted into arachidonic acid, which leads to the production of endocannabinoids 2-AG and AEA. These endocannabinoids stimulate our appetite and ultimately, may cause you to eat more.
+
 ## Testimonials
 
-## FDA
+- [No sunburn](https://twitter.com/SeedOilDsrspctr/status/1670178296984739843?s=20)
+- [Loses weight in Europe](https://twitter.com/seedoildsrspctr/status/1658987790439272449)
 
-[The only fatty acid with a legal minimum & maximum level in infant formula in the USA is omega-6 linoleic acid - which is NOT essential!](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=107.100)
+## [Why did saturated fat get a bad rap?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9794145/)
+
+> The idea that saturated fats cause heart disease, called the diet-heart hypothesis, was introduced in the 1950s, based on weak, associational evidence. Subsequent clinical trials attempting to substantiate this hypothesis could never establish a causal link. However, these clinical-trial data were largely ignored for decades, until journalists brought them to light about a decade ago. Subsequent reexaminations of this evidence by nutrition experts have now been published in >20 review papers, which have largely concluded that saturated fats have no effect on cardiovascular disease, cardiovascular mortality or total mortality.
+
+## [Healthy oils](https://www.seedoilrebellion.com/healthy-oils)
+
+- Butter
+- Ghee
+- Tallow
+- Extra vigin olive oil
+- Coconut oil
+- Avacado oil
 
 ## Humorous
 
