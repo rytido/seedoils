@@ -60,7 +60,9 @@
 - [No sunburn](https://twitter.com/SeedOilDsrspctr/status/1670178296984739843?s=20)
 - [Loses weight in Europe](https://twitter.com/seedoildsrspctr/status/1658987790439272449)
 
-## [Healthy oils](https://www.seedoilrebellion.com/healthy-oils)
+## Healthy oils
+
+[source](https://www.seedoilrebellion.com/healthy-oils)
 
 - Butter
 - Ghee
