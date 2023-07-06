@@ -1,5 +1,16 @@
 # Seed Oil Resources
 
+This page includes excerpts from and links to various studies, publications, tweets, etc showing the unhealthy nature of seed oils.
+
+## Summary
+
+- Seed oils are high in polyunsaturated fatty acids (PUFAs)
+- PUFAs are unstable and oxidize easily, particularly in the presence of sunlight
+- Their breakdown produces unhealthy substances including 4-HNE
+- The oil production process requires repeated high heat and chemicals to remove the rancid smell of the oil
+- The quantity of seeds required to produce a relatively small amount of oil is much more than a human could resonably consume in seed form
+- Linoleic acid, a PUFA, can affect your endocannabinoid system to give you the munchies.
+
 ## Brain
 
 ### [[Soybean oil] causes genetic changes in the brain](https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain)
@@ -54,6 +65,12 @@
 [Hogstop active ingredient is cottonseed oil](https://hiprofeeds.com/wp-content/uploads/2019/04/13417225.pdf)
 
 > Contraceptive bait for feral hogs. Reduces the fertility of male feral hogs within 5 days.
+
+## 4-HNE
+
+[wikipedia](https://en.wikipedia.org/wiki/4-Hydroxynonenal)
+
+> Since 1991, OαβUAs are receiving a great deal of attention because they are being considered as possible causal agents of numerous diseases, such as chronic inflammation, neurodegenerative diseases, adult respiratory distress syndrome, atherogenesis, diabetes and different types of cancer.
 
 ## Testimonials
 
