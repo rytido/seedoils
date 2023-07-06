@@ -21,12 +21,6 @@
 
 > Contraceptive bait for feral hogs. Reduces the fertility of male feral hogs within 5 days.
 
-## Liver
-
-[Soybean Oil Is More Obesogenic and Diabetogenic than Coconut Oil and Fructose in Mouse: Potential Role for the Liver](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132672)
-
-> Taken together, our results indicate that in mice a diet high in soybean oil is more detrimental to metabolic health than a diet high in fructose or coconut oil.
-
 ## Brain
 
 ### [[Soybean oil] causes genetic changes in the brain](https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain)
@@ -41,12 +35,6 @@
 
 > Significantly less acrylamide was produced in saturated animal fat than in unsaturated cooking oil, with 366 ng/g in lard and 211 ng/g in ghee versus 2447 ng/g in soy oil, followed by palm olein with 1442 ng/g.
 
-## Heart
-
-### [Sydney Diet Heart Study](https://www.bmj.com/content/346/bmj.e8707)
-
-> In this cohort, substituting dietary linoleic acid in place of saturated fats increased the rates of death from all causes, coronary heart disease, and cardiovascular disease. An updated meta-analysis of linoleic acid intervention trials showed no evidence of cardiovascular benefit.
-
 ## Gut
 
 ### [The munchies](https://www.zeroacre.com/blog/seed-oils-cause-the-munchies)
@@ -54,6 +42,18 @@
 > THC isn’t the only compound capable of activating CB1 receptors. Your body naturally produces compounds called "endocannabinoids."
 > These endocannabinoids, primarily 2-arachidonoylglycerol (2-AG) and anandamide (AEA), can also activate CB1 receptors and trigger hunger – even on a full stomach.
 > Your body makes 2-AG and AEA endocannabinoids exclusively from arachidonic acid (an omega-6 fatty acid). And while arachidonic acid is present in trace amounts in food, your body primarily produces it from its precursor: linoleic acid. In other words, when you consume linoleic acid, some of it is converted into arachidonic acid, which leads to the production of endocannabinoids 2-AG and AEA. These endocannabinoids stimulate our appetite and ultimately, may cause you to eat more.
+
+## Heart
+
+### [Sydney Diet Heart Study](https://www.bmj.com/content/346/bmj.e8707)
+
+> In this cohort, substituting dietary linoleic acid in place of saturated fats increased the rates of death from all causes, coronary heart disease, and cardiovascular disease. An updated meta-analysis of linoleic acid intervention trials showed no evidence of cardiovascular benefit.
+
+## Liver
+
+[Soybean Oil Is More Obesogenic and Diabetogenic than Coconut Oil and Fructose in Mouse: Potential Role for the Liver](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132672)
+
+> Taken together, our results indicate that in mice a diet high in soybean oil is more detrimental to metabolic health than a diet high in fructose or coconut oil.
 
 ## Testimonials
 
