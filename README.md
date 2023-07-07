@@ -72,31 +72,11 @@ This page includes excerpts from and links to various studies, publications, twe
 
 > Since 1991, OαβUAs are receiving a great deal of attention because they are being considered as possible causal agents of numerous diseases, such as chronic inflammation, neurodegenerative diseases, adult respiratory distress syndrome, atherogenesis, diabetes and different types of cancer.
 
-## Testimonials
+## See also
 
-### Mine
+[HealthyOils](HealthyOils.md)
 
-I began to limit seed oil consumption in early 2022. That summer, I already noticed my health improving, particularly my skin. Most of my life I had dry, flaky spots on my skin. These began to disappear and are now extremely rare. I could spend significantly more time in the sun without getting burned. In the past my hands would get very dry in the winter, even to the point of bleeding when I was younger. Winter 2022 I had no issues with dryness, and almost never used lotion on my hands. Summer 2023 I have noticed even more improvement in how much sun I can tolerate. I have not worn sunscreen in 2023 (this is not advice). The one time so far this summer my skin got sensitive (top of my shoulders only) we were at a water park 1-4pm (it was partly sunny). I was still able to take a hot shower with no pain and the next morning the redness was gone. I walk barefoot a lot, and last summer my heels were still getting dry and cracked. This summer I've abused my feet even more (shoot hoops barefoot in the street for instance), and there is no cracking. To be fair, I partly contribute this to a signifant increase in saturated fat consumption, butter in particular.
-
-### Others
-
-- [No sunburn](https://twitter.com/SeedOilDsrspctr/status/1670178296984739843?s=20)
-- [Loses weight in Europe](https://twitter.com/seedoildsrspctr/status/1658987790439272449)
-
-## Healthy oils
-
-[source](https://www.seedoilrebellion.com/healthy-oils)
-
-- Butter
-- Ghee
-- Tallow
-- Extra vigin olive oil
-- Coconut oil
-- Avacado oil
-
-### [Why did saturated fat get a bad rap?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9794145/)
-
-> The idea that saturated fats cause heart disease, called the diet-heart hypothesis, was introduced in the 1950s, based on weak, associational evidence. Subsequent clinical trials attempting to substantiate this hypothesis could never establish a causal link. However, these clinical-trial data were largely ignored for decades, until journalists brought them to light about a decade ago. Subsequent reexaminations of this evidence by nutrition experts have now been published in >20 review papers, which have largely concluded that saturated fats have no effect on cardiovascular disease, cardiovascular mortality or total mortality.
+[Testimonials](Testimonials.md)
 
 ## Other
 
