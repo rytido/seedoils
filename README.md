@@ -9,7 +9,7 @@ This page includes excerpts from and links to various studies, publications, twe
 - Their breakdown produces unhealthy substances including 4-HNE
 - The oil production process requires repeated high heat and chemicals to remove the rancid smell of the oil
 - The quantity of seeds required to produce a relatively small amount of oil is much more than a human could resonably consume in seed form
-- Linoleic acid, a PUFA, can affect your endocannabinoid system to give you the munchies.
+- Linoleic acid, a PUFA, can affect your endocannabinoid system to give you the munchies
 
 ## Brain
 
@@ -44,6 +44,10 @@ This page includes excerpts from and links to various studies, publications, twe
 [Soybean Oil Is More Obesogenic and Diabetogenic than Coconut Oil and Fructose in Mouse: Potential Role for the Liver](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132672)
 
 > Taken together, our results indicate that in mice a diet high in soybean oil is more detrimental to metabolic health than a diet high in fructose or coconut oil.
+
+## Skin
+
+[Mice fed 20% saturated fat were almost completely protected from UV tumorigenesis when compared with mice fed 20% polyunsaturated fat.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-1097.1988.tb02882.x)
 
 ## Consumption
 
