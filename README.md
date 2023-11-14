@@ -13,11 +13,15 @@ This page includes excerpts from and links to various studies, publications, twe
 
 ## Brain
 
-### [[Soybean oil] causes genetic changes in the brain](https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain)
+[[Soybean oil] causes genetic changes in the brain](https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain)
 
 > UC Riverside research shows soybean oil not only leads to obesity and diabetes, but could also affect neurological conditions like autism, Alzheimer’s disease, anxiety, and depression.
 
-### [High fried food consumption impacts anxiety and depression](https://www.pnas.org/doi/10.1073/pnas.2221097120)
+[The role of RLIP76 in oxidative stress and mitochondrial dysfunction: Evidence based on autopsy brains from Alzheimer's disease patients](https://www.sciencedirect.com/science/article/abs/pii/S0925443923002983)
+
+> Lipid peroxidation (4-HNE generation) and H2O2 production were significantly higher (p = 0.004 and 0.0001 respectively) in AD patients compared to controls, and this was accompanied by lower ATP production in AD (p = 0.0009)
+
+[High fried food consumption impacts anxiety and depression](https://www.pnas.org/doi/10.1073/pnas.2221097120)
 
 > To address a crucial knowledge deficiency concerning the correlation between fried food consumption and the risk of anxiety and depression, here we revealed that frequent fried food consumption is strongly associated with a higher risk of anxiety and depression. Notably, acrylamide is a representative contaminant in fried foods, thereby further elucidating its toxicological mode of action. We demonstrated that long-term exposure to acrylamide induces anxiety- and depressive-like behaviors via oxidative stress-mediated neuroinflammation, and unravel the underlying mechanism that PPAR signaling pathway mediates acrylamide-induced lipid metabolism disorder in brain.
 
@@ -35,7 +39,7 @@ This page includes excerpts from and links to various studies, publications, twe
 
 ## Heart
 
-### [Sydney Diet Heart Study](https://www.bmj.com/content/346/bmj.e8707)
+[Sydney Diet Heart Study](https://www.bmj.com/content/346/bmj.e8707)
 
 > In this cohort, substituting dietary linoleic acid in place of saturated fats increased the rates of death from all causes, coronary heart disease, and cardiovascular disease. An updated meta-analysis of linoleic acid intervention trials showed no evidence of cardiovascular benefit.
 
@@ -51,7 +55,7 @@ This page includes excerpts from and links to various studies, publications, twe
 
 ## Consumption
 
-### [The dose makes the poison](https://twitter.com/SeedOilDsrspctr/status/1673319439968739328)
+[The dose makes the poison](https://twitter.com/SeedOilDsrspctr/status/1673319439968739328)
 
 - Five tbsp of sunflower oil requires 2800 sunflower seeds (my own estimate below is actually higher)
   - [~29K seeds per kg of seeds](https://www.cotswoldseeds.com/species/62/sunflower)
@@ -60,7 +64,7 @@ This page includes excerpts from and links to various studies, publications, twe
   - 29000 \* 2.3 / 67 \* 5 ~= 5000
 - Five tbsp of corn oil requires 98 ears of corn
 
-### [Consumption is increasing](https://twitter.com/SeedOilDsrspctr/status/1672235847146504192?s=20)
+[Consumption is increasing](https://twitter.com/SeedOilDsrspctr/status/1672235847146504192?s=20)
 
 - TODO: rebuild from source data
 
@@ -100,6 +104,6 @@ Links to [Canola meal project sees more dramatic results in second year](https:/
 
 ## Other
 
-### [Euric Acid](https://pubmed.ncbi.nlm.nih.gov/34924350/#:~:text=Mustard%20oil%20is%20a%20liquid,of%20mustard%20oil%20for%20cooking)
+[Euric Acid](https://pubmed.ncbi.nlm.nih.gov/34924350/#:~:text=Mustard%20oil%20is%20a%20liquid,of%20mustard%20oil%20for%20cooking)
 
 > Mustard oil is a liquid oil that is low in saturated fat and is popular in South Asia.It contains a large proportion of erucic acid, a fatty acid associated with myocardial lipidosis in rodents. This evidence prompted the US Food and Drug Administration (FDA) to ban the use of mustard oil for cooking.
