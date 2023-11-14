@@ -70,6 +70,18 @@ This page includes excerpts from and links to various studies, publications, twe
 
 > Contraceptive bait for feral hogs. Reduces the fertility of male feral hogs within 5 days.
 
+Soybean oil is used to fatten pigs - personally know a farmer who does this
+
+Google `best way to fatten a pig`:
+
+> If your pig has a low appetite, adding a liquid fat (any vegetable oil)
+
+Post from US Canola Association: [In an ongoing study by @SKAgriculture and @SK_StockGrowers, canola meal is shown to cause weight gain among cattle](https://x.com/uscanola/status/1724185807466930547)
+
+Links to [Canola meal project sees more dramatic results in second year](https://www.canadiancattlemen.ca/livestock/canola-meal-project-sees-more-dramatic-results-in-second-year/)
+
+> In 2021 on Burgess’s ranch, the control group’s average start weight was 914 lbs. and the end weight was 927 lbs. The supplement group’s average start weight was 902 lbs. and ended at 936 lbs. This means the control group’s average daily gain was 0.20 lb. per day, and the supplement group’s was 0.51. In 2022, the control group’s average start weight was 908 lbs. and the end weight was 853 lbs. The supplement group’s start weight was 863 lbs. and the end weight was 913 lbs. The control group’s average daily gain was -0.87 lb. and the supplement group’s was 0.80 lb. per day.
+
 ## 4-HNE
 
 [wikipedia](https://en.wikipedia.org/wiki/4-Hydroxynonenal)
