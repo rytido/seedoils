@@ -74,7 +74,7 @@ Soybean oil is used to fatten pigs - personally know a farmer who does this
 
 Google `best way to fatten a pig`:
 
-> If your pig has a low appetite, adding a liquid fat (any vegetable oil)
+> If your pig has a low appetite, adding a liquid fat (any vegetable oil) or dry fat (sold by all show pig feed dealers) to the diet can help add needed weight
 
 Post from US Canola Association: [In an ongoing study by @SKAgriculture and @SK_StockGrowers, canola meal is shown to cause weight gain among cattle](https://x.com/uscanola/status/1724185807466930547)
 
