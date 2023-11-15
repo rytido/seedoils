@@ -92,6 +92,10 @@ Links to [Canola meal project sees more dramatic results in second year](https:/
 
 > Since 1991, OαβUAs are receiving a great deal of attention because they are being considered as possible causal agents of numerous diseases, such as chronic inflammation, neurodegenerative diseases, adult respiratory distress syndrome, atherogenesis, diabetes and different types of cancer.
 
+[4-Hydroxynonenal (HNE) modified proteins in metabolic diseases](https://www.sciencedirect.com/science/article/pii/S0891584916309868)
+
+![Table of references](img/HNE-modified-proteins-biomarkers.png "HNE-modified proteins as potential biomarkers for several diseases")
+
 [Lipid peroxidation in brain tumors](https://www.sciencedirect.com/science/article/abs/pii/S0197018621001649?via%3Dihub)
 
 > Studies done by our group and others have shown that 4-HNE level is increased in brain tumors (Fig. 3), proportional with the grade of tumor malignancy and is, therefore, associated with poorer prognosis.
