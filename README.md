@@ -108,6 +108,12 @@ Links to [Canola meal project sees more dramatic results in second year](https:/
 
 > Studies done by our group and others have shown that 4-HNE level is increased in brain tumors (Fig. 3), proportional with the grade of tumor malignancy and is, therefore, associated with poorer prognosis.
 
+## Allergies
+
+[Association of Dietary Polyunsaturated Fatty Acid Intake with Allergic Rhinitis](https://karger.com/iaa/article-abstract/185/2/124/868897/Association-of-Dietary-Polyunsaturated-Fatty-Acid?redirectedFrom=fulltext)
+
+[Stimulatory effect of histamine on the peroxidation of linoleic acid](https://pubs.acs.org/doi/pdf/10.1021/jf00097a013)
+
 ## See also
 
 [HealthyOils](HealthyOils.md)
