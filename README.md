@@ -74,6 +74,10 @@ This page includes excerpts from and links to various studies, publications, twe
 
 > Contraceptive bait for feral hogs. Reduces the fertility of male feral hogs within 5 days.
 
+[Evolve active ingredient is cottonseed oil](https://senestech.com)
+
+> The active ingredient is cottonseed oil, which interferes with the reproductive mechanisms in both male and female rats.
+
 Soybean oil is used to fatten pigs - personally know a farmer who does this
 
 Google `best way to fatten a pig`:
